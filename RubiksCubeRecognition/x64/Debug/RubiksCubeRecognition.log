@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(134,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,53): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,53): warning C4244:         with
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,53): warning C4244:         [
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,53): warning C4244:             _Tp=float
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,53): warning C4244:         ]
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,38): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,38): warning C4244:         with
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,38): warning C4244:         [
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,38): warning C4244:             _Tp=float
+D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\RubiksCubeRecognition\main.cpp(145,38): warning C4244:         ]
+  RubiksCubeRecognition.vcxproj -> D:\桌面\机器视觉\4-RubiksCubeRecognition\RubiksCubeRecognition_v2_LAB\x64\Debug\RubiksCubeRecognition.exe
